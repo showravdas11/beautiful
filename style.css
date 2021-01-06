@@ -1,0 +1,37 @@
+h1{
+    color: gold;
+    background-color: mediumpurple;
+    height: 50px;
+    width: 600px;
+    font-size: 20px;
+    font-weight: bold; 
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+img{
+    height: 700px;
+    
+}
+.romantic{
+ color: lime;
+}
+.graph{
+ font-size: 50px;
+border: solid red;
+}
+.background{
+ height: 600px;
+}
+.blog{
+ background-color: mediumaquamarine;
+ border: solid green;
+ border-radius: 10px;
+ margin: 40px;
+}
+.tour{
+height: 300px;
+}
+.goru{
+ border: solid green;
+ border-radius: 30px;
+padding: 30px;
+}
